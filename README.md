@@ -4,4 +4,7 @@
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
-3. `exec myconf.cfg`
+3. Execute this commmand in cs2 terminal:
+```
+exec myconf.cfg
+```
